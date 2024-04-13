@@ -5,11 +5,8 @@
 <hr>
   
 <div align="center">  
-<h1>Ángel David Serrano Alcalá</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="100px" height="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="100px" height="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80px" height="80px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80px" height="80px"/> 
+  <h1>Ángel David Serrano Alcalá</h1>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,gamemakerstudio,vscode)](https://skillicons.dev)
 </div>
   
 <hr>
