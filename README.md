@@ -6,7 +6,7 @@
   
 <div align="center">  
   <h1>Ángel David Serrano Alcalá</h1>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,discord,gamemakerstudio,vscode)](https://skillicons.dev)
+
 </div>
   
 <hr>
