@@ -6,7 +6,11 @@
   
 <div align="center">  
   <h1>Ángel David Serrano Alcalá</h1>
-
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cpp,discord,gamemakerstudio,github,vscode,windows" />
+  </a>
+</p>
 </div>
   
 <hr>
