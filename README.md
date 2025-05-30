@@ -5,7 +5,7 @@
 <div align="center"> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,cpp,gamemakerstudio,godot,discord,windows,arch" />
+      <img src="https://skillicons.dev/icons?i=html,css,cpp,gamemakerstudio,godot,git,discord,windows,arch" />
     </a>
   </p>
 </div>
